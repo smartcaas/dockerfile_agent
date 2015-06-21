@@ -1,0 +1,3 @@
+[submodule "agent"]
+	path = agent
+	url = https://git.oschina.net/cnperl/dinp-agent.git

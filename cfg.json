@@ -1,0 +1,10 @@
+{
+	"debug": true,
+	"localIp": "",
+	"servers": [
+		"{SERVER_HOST}:{SERVER_PORT}"
+	],
+	"interval": 5,
+	"timeout": 1000,
+	"docker": "/var/run/docker.sock"
+}

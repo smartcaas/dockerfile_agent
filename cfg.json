@@ -1,6 +1,6 @@
 {
 	"debug": true,
-	"localIp": "",
+	"localIp": "{AGENT_IP}",
 	"servers": [
 		"{SERVER_HOST}:{SERVER_PORT}"
 	],

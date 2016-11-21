@@ -1,7 +1,7 @@
-FROM golang:1.4
+FROM golang:1.7
 RUN mkdir -p $GOPATH/src/github.com/dinp \
 && cd $GOPATH/src/github.com/dinp \
-&& git clone https://github.com/dinp/agent.git \
+&& git clone https://github.com/smartcaas/agent.git \
 && cd agent \
 && go get ./... \
 && go build

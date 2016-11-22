@@ -6,5 +6,5 @@
 	],
 	"interval": 5,
 	"timeout": 1000,
-	"docker": "unix:/var/run/docker.sock"
+	"docker": "unix:///var/run/docker.sock"
 }
